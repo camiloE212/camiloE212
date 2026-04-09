@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí  
 
-Soy **Camilo Espinosa**, estudiante de **Desarrollo de Software** (5º semestre).  
+Soy **Camilo Espinosa**, estudiante de **Desarrollo de Software** (6º semestre).  
 Me apasiona la **programación**, el **desarrollo web** y el **trabajo con bases de datos**.  
 Actualmente sigo aprendiendo y fortaleciendo mis conocimientos en **backend, frontend y tecnologías modernas** para crear soluciones innovadoras.  
 
