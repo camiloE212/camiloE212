@@ -12,7 +12,7 @@ Soy **Camilo Espinosa**, estudiante de **Desarrollo de Software** (5º semestre)
 Me apasiona la **programación**, el **desarrollo web** y el **trabajo con bases de datos**.  
 Actualmente sigo aprendiendo y fortaleciendo mis conocimientos en **backend, frontend y tecnologías modernas** para crear soluciones innovadoras.  
 
-- 🎓 Estudiante de Desarrollo de Software (5º semestre)  
+- 🎓 Estudiante de Desarrollo de Software (6º semestre)  
 - 💻 Intereses: Desarrollo Web | Aplicaciones con Python | Bases de Datos | APIs | Cloud  
 - 🚀 Objetivo: Convertirme en un desarrollador full-stack y colaborar en proyectos innovadores  
 
